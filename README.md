@@ -1,6 +1,7 @@
 ## Python environment instructions:   
 
-#### import zipfile
+#### Directory where the contents will be extracted
+import zipfile
 zip_file_path = '/content/Lec2_DeepQ-Learning.zip'  
 extract_dir = '/content/Lec2_DeepQ-Learning'  
     
